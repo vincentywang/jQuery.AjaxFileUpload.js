@@ -19,7 +19,7 @@
           onComplete: function(response) { },
           onCancel: function() { },
           validate_extensions : true,
-          valid_extensions : ['gif','png','jpg','jpeg'],
+          valid_extensions : ['gif','png','jpg','jpeg','zip'],
           submit_button : null
         };
 
